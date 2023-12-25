@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Buffalo Bills vs. Los Angeles Chargers | 2023 Week 16 Game Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=vqiGrrmpL34",
+            "urlToImage": "https://i.ytimg.com/vi/vqiGrrmpL34/maxresdefault.jpg",
+            "publishedAt": "2023-12-24T04:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Insomniac Hacked, Jonathan Majors Verdict, GTA 6 Nintendo Switch Potential & More | IGN Weekly Fix - IGN",
+            "description": "Get the latest on this week's biggest headlines in games and entertainment! This week, Everything you need to know about Insomniac Games devastating hack, So...",
+            "url": "https://www.youtube.com/watch?v=SQGc2jZ_HQc",
+            "urlToImage": "https://i.ytimg.com/vi/SQGc2jZ_HQc/maxresdefault.jpg",
+            "publishedAt": "2023-12-23T20:30:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jesse Sarles",
+            "title": "Elijah McClain death: Paramedics who injected Colorado Black man with ketamine found guilty - CBS News",
+            "description": "A Colorado jury on Friday found two paramedics guilty of criminally negligent homicide in the death of Elijah McClain near his home in Aurora.",
+            "url": "https://www.cbsnews.com/colorado/news/paramedics-elijah-mcclain-death-ketamine-colorado-jury-ruling/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/23/bba44dd7-a73f-4b66-b470-f4c558051b40/thumbnail/1200x630/5d9fc74b56345dda4d76b0d6b5833538/abeyta-6pm-live-and-vo-frame-3837.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+            "publishedAt": "2023-12-23T20:28:00Z",
+            "content": "A Colorado jury on Friday found two paramedics guilty of criminally negligent homicide in the death of Elijah McClain near his home in Aurora. The 23-year-old Black man was walking home in 2019 when … [+10806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Liam Croft",
+            "title": "Best PS5, PS4 Story Game of 2023 - Push Square",
+            "description": "Tales from the console",
+            "url": "https://www.pushsquare.com/features/game-of-the-year-best-ps5-ps4-story-game-of-2023",
+            "urlToImage": "https://images.pushsquare.com/22816517b63d1/1280x720.jpg",
+            "publishedAt": "2023-12-23T20:00:00Z",
+            "content": "Our Game of the Year coverage continues with the Best PS5, PS4 Story Game of 2023, of which a top four has been put together by the Push Square editorial team. This category highlights the best adven… [+3820 chars]"
+        }
+    ]
+}
+
